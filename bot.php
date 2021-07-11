@@ -1,6 +1,6 @@
 <?php
 
-$url = "https://www.xvideos.com/";
+$url = "https://www.xv-horezeedipaif.com";
 
 $curl = curl_init($url);
 curl_setopt($curl, CURLOPT_URL, $url);
